@@ -347,7 +347,7 @@ Instead of labels like "high risk", the system can display:
 - Weather severity
 - Instructor experience
 - Attendance percentage
-- Simulator performance
+- Aircraft Maintainance history
 - Cadet feedback
 
 ---
