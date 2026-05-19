@@ -1,4 +1,4 @@
-# Toga study intelligence
+# Toga Study Intelligence
 
 ## Overview
 
