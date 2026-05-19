@@ -1,4 +1,4 @@
-# Skynet operations analysis
+# Skynet Operations Analysis
 
 ## Overview
 
