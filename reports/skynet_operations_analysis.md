@@ -83,7 +83,7 @@ Better redistribution of sortie assignments could help improve instructor balanc
 
 A significant number of qualification mismatches were detected between instructor qualification type and assigned aircraft type.
 
-A total of 80 mismatch cases were identified.
+A total of 80 mismatch cases were identified.This seems to be abnormal according to the real world scenario but this high no.of cases may be primarily due to the use synethetic data.
 
 Example:
 - Instructor qualified for C152 assigned to PA28
