@@ -266,9 +266,6 @@ Some limitations were identified in the current approach:
 ---
 
 # Conclusion
-
-An explainable weighted risk scoring framework was developed to identify cadets requiring additional attention.
-
 The approach provides:
 
 - transparent scoring
@@ -276,4 +273,4 @@ The approach provides:
 - easier interpretation
 - operational usefulness
 
-The model can support future operational reviews and may also be improved using larger historical datasets and additional factors.
+The model can support future operational reviews and may also be improved using larger historical datasets and additional factors which can be considered in real world scenarios.
