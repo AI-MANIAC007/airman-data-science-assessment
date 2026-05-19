@@ -1,0 +1,16 @@
+instructor_id,name,base_id,aircraft_qualified,total_duty_hours,total_flight_hours
+I001,Capt Martinez,B02,SR20,114,130
+I002,Capt Carney,B01,C172,174,69
+I003,Capt Jennings,B02,C172,199,69
+I004,Capt Williams,B01,C152,125,98
+I005,Capt Glenn,B02,PA28,137,85
+I006,Capt Price,B01,DA40,179,127
+I007,Capt Perez,B01,SR20,171,61
+I008,Capt Moran,B01,PA28,149,88
+I009,Capt Tyler,B02,SR20,118,127
+I010,Capt Murillo,B02,C172,119,44
+I011,Capt Martinez,B02,C152,124,48
+I012,Capt Santos,B01,SR20,181,80
+I013,Capt Sanchez,B01,C152,140,122
+I014,Capt Griffin,B02,PA28,123,57
+I015,Capt Boyd,B01,SR20,158,73

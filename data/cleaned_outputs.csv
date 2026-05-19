@@ -1,0 +1,7 @@
+Dataset,Rows,Cleaning Applied
+sorties,100,Validation checks completed
+aircraft,10,Added high_defect_flag
+cadets,60,Validation checks completed
+instructors,15,Corrected duty hours
+toga_study,103,Aggregated duplicate cadet-subject rows
+payments,60,Validation checks completed

@@ -1,0 +1,115 @@
+cadet_id,subject,chapters_completed,total_chapters,avg_quiz_score,last_active_date,practice_tests_attempted
+C001,Technical General,17,28,51,2026-03-25,0
+C002,Meteorology,18,33,35,2026-03-25,5
+C003,Technical General,6,28,70,2026-04-30,6
+C004,Meteorology,4,20,95,2026-05-11,2
+C004,Instrument Procedures,12,21,70,2026-03-29,2
+C004,Meteorology,9,33,54,2026-05-16,5
+C005,Navigation,7,31,77,2026-05-06,1
+C006,Navigation,10,33,90,2026-04-20,2
+C006,Meteorology,14,25,46,2026-03-23,5
+C007,Navigation,9,27,85,2026-03-23,1
+C007,Technical General,3,32,49,2026-05-14,3
+C008,Navigation,10,31,49,2026-04-21,0
+C008,Air Regulations,13,26,52,2026-04-28,1
+C009,Instrument Procedures,21,31,60,2026-05-01,8
+C009,Meteorology,1,30,91,2026-04-03,4
+C010,Meteorology,2,28,73,2026-04-20,6
+C011,Instrument Procedures,14,30,67,2026-04-18,1
+C011,Air Regulations,13,32,37,2026-04-08,6
+C012,Technical General,12,26,39,2026-04-29,5
+C013,Meteorology,22,30,81,2026-04-03,4
+C013,Technical General,22,29,55,2026-04-19,6
+C013,Navigation,18,29,47,2026-04-13,6
+C014,Instrument Procedures,12,32,71,2026-05-10,4
+C014,Air Regulations,1,32,53,2026-03-29,3
+C014,Technical General,21,33,63,2026-03-25,7
+C015,Technical General,17,26,85,2026-03-28,2
+C015,Instrument Procedures,10,22,77,2026-05-07,5
+C015,Air Regulations,8,22,49,2026-05-11,3
+C016,Navigation,2,20,65,2026-04-13,1
+C017,Technical General,13,33,66,2026-04-11,6
+C017,Meteorology,5,27,92,2026-04-15,1
+C018,Instrument Procedures,6,27,64,2026-03-24,0
+C018,Technical General,4,27,43,2026-04-30,7
+C019,Technical General,25,30,74,2026-04-13,8
+C019,Navigation,29,33,82,2026-04-09,7
+C019,Navigation,17,34,88,2026-04-19,4
+C020,Air Regulations,16,35,63,2026-04-10,1
+C020,Air Regulations,8,29,56,2026-05-08,5
+C020,Navigation,5,22,49,2026-03-31,6
+C021,Navigation,23,24,39,2026-03-20,6
+C021,Instrument Procedures,22,33,64,2026-05-16,6
+C021,Technical General,7,21,59,2026-04-23,0
+C022,Meteorology,31,32,95,2026-03-20,5
+C022,Technical General,25,29,89,2026-04-01,6
+C022,Navigation,16,27,52,2026-04-23,6
+C023,Air Regulations,13,20,77,2026-05-08,6
+C023,Navigation,15,25,74,2026-04-20,8
+C024,Meteorology,2,32,76,2026-04-17,6
+C025,Meteorology,12,34,51,2026-03-30,6
+C026,Air Regulations,15,26,56,2026-03-23,6
+C026,Technical General,25,28,51,2026-04-14,1
+C027,Meteorology,18,20,95,2026-04-30,5
+C027,Meteorology,21,27,84,2026-05-14,0
+C028,Meteorology,7,27,74,2026-04-13,2
+C029,Meteorology,16,24,71,2026-05-12,3
+C030,Air Regulations,25,28,45,2026-04-27,1
+C030,Meteorology,10,25,72,2026-05-03,0
+C031,Navigation,26,32,39,2026-04-16,3
+C031,Air Regulations,23,23,89,2026-03-29,1
+C032,Instrument Procedures,12,21,62,2026-05-16,5
+C032,Air Regulations,17,22,35,2026-05-15,6
+C032,Technical General,7,35,58,2026-03-24,7
+C033,Navigation,14,24,81,2026-05-11,8
+C033,Instrument Procedures,20,28,84,2026-04-18,7
+C033,Instrument Procedures,28,34,52,2026-03-27,5
+C034,Technical General,9,22,50,2026-05-10,7
+C035,Meteorology,22,32,66,2026-04-04,5
+C035,Navigation,16,25,57,2026-04-02,4
+C035,Instrument Procedures,9,30,79,2026-03-27,4
+C036,Navigation,17,20,40,2026-03-22,3
+C036,Instrument Procedures,32,33,83,2026-04-05,3
+C036,Technical General,32,35,85,2026-04-05,0
+C037,Technical General,8,29,79,2026-04-19,3
+C038,Instrument Procedures,16,31,68,2026-03-22,5
+C038,Air Regulations,22,33,79,2026-04-05,7
+C039,Navigation,9,29,42,2026-05-10,3
+C039,Instrument Procedures,4,30,95,2026-04-15,2
+C040,Technical General,24,26,52,2026-04-16,8
+C041,Navigation,4,29,53,2026-04-09,3
+C041,Air Regulations,6,31,35,2026-04-03,8
+C041,Meteorology,9,24,38,2026-05-17,8
+C042,Technical General,21,24,41,2026-04-09,0
+C042,Technical General,16,29,63,2026-04-27,5
+C043,Technical General,9,21,42,2026-03-29,1
+C044,Instrument Procedures,5,35,75,2026-05-03,0
+C044,Instrument Procedures,5,24,95,2026-05-14,4
+C045,Instrument Procedures,4,27,83,2026-03-26,6
+C046,Instrument Procedures,25,27,59,2026-04-07,7
+C046,Instrument Procedures,20,34,62,2026-04-21,4
+C046,Meteorology,20,21,95,2026-04-02,3
+C047,Meteorology,9,26,45,2026-04-09,3
+C047,Meteorology,18,25,45,2026-04-21,0
+C047,Instrument Procedures,29,33,65,2026-05-15,4
+C048,Air Regulations,10,27,79,2026-05-17,7
+C049,Instrument Procedures,9,27,77,2026-03-20,3
+C050,Navigation,18,23,76,2026-05-01,2
+C050,Navigation,27,28,39,2026-05-08,0
+C051,Instrument Procedures,20,29,93,2026-04-14,4
+C052,Air Regulations,15,23,79,2026-03-21,6
+C052,Instrument Procedures,17,28,66,2026-03-21,7
+C053,Air Regulations,14,21,73,2026-04-05,4
+C054,Instrument Procedures,8,22,72,2026-04-29,0
+C055,Meteorology,19,28,83,2026-03-23,2
+C055,Technical General,34,35,93,2026-05-07,4
+C055,Technical General,19,25,75,2026-04-10,7
+C056,Technical General,23,35,56,2026-03-24,5
+C057,Air Regulations,6,23,61,2026-05-17,7
+C057,Technical General,22,29,87,2026-04-20,8
+C057,Meteorology,15,21,55,2026-04-13,4
+C058,Instrument Procedures,13,23,87,2026-04-15,0
+C058,Meteorology,27,34,47,2026-05-14,8
+C059,Meteorology,29,35,48,2026-04-02,4
+C059,Technical General,10,24,91,2026-04-26,7
+C060,Navigation,20,20,80,2026-04-14,2
