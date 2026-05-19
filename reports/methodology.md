@@ -274,3 +274,88 @@ The approach provides:
 - operational usefulness
 
 The model can support future operational reviews and may also be improved using larger historical datasets and additional factors which can be considered in real world scenarios.
+
+---
+
+# Explainability Questions 
+
+## 1. Why did you choose your risk score formula?
+
+I used a weighted risk score because the task required an explainable approach. I intentionally did not use a machine learning model because the dataset is relatively small and contains data quality issues such as missing values and inconsistencies.
+
+Using a complex model at this stage would reduce interpretability and make it difficult to explain why a cadet received a particular score. A weighted score makes each contribution visible and easy to understand.
+
+---
+
+## 2. Which features had the most impact and why?
+
+Flight progress, study progress, quiz score, and payment status had higher impact because they directly affect training continuity and cadet performance.
+
+---
+
+## 3. What assumptions did you make?
+
+- Higher inactivity means lower engagement
+- High outstanding payments may affect training
+- Repeated cancellations can delay progress
+- Flight and study progress should move together
+
+---
+
+## 4. What data quality issue could mislead the model?
+
+Missing flight timings, incorrect delay values, missing study records, and payment inconsistencies can affect the calculated score.
+
+If a machine learning model had been used directly on such data, it could learn misleading patterns.
+
+---
+
+## 5. What would you not automate or predict yet?
+
+I would not automatically predict training failure or instructor quality because the current data is not sufficient for such decisions.
+
+I also avoided using ML models for these predictions because the available information may not represent real cadet performance completely.
+
+---
+
+## 6. How would you validate this model with real FTO data?
+
+I would test the score using historical cadet data and compare it with actual training outcomes and completion status.
+
+---
+
+## 7. How would you prevent unfair ranking of cadets?
+
+The score should only use training-related information and avoid personal information.
+
+The score should be used for support and intervention instead of publicly ranking cadets.
+
+---
+
+## 8. How should AIRMAN display this insight without demotivating students?
+
+Instead of labels like "high risk", the system can display:
+
+- Additional study support recommended
+- Training attention required
+- More practice suggested
+
+---
+
+## 9. What additional data would improve the model?
+
+- Weather severity
+- Instructor experience
+- Attendance percentage
+- Simulator performance
+- Cadet feedback
+
+---
+
+## 10. How would this analysis help Skynet and TOGA become more intelligent products?
+
+Skynet can improve aircraft utilization and workload management.
+
+TOGA can provide personalized study recommendations and identify weak learning areas earlier.
+
+Both systems can move from reactive monitoring to earlier intervention and support.
