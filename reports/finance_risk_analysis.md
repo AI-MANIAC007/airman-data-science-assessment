@@ -1,4 +1,4 @@
-# Finance risk analysis
+# Finance Risk Analysis
 
 ## Overview
 
