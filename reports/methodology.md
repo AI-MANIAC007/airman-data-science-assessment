@@ -1,4 +1,4 @@
-# Explainable cadet risk score methodology
+# Explainable Cadet Risk Score Methodology
 
 ## Overview
 
