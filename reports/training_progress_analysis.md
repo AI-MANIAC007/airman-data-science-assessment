@@ -1,4 +1,4 @@
-# Training progress analysis
+# Training Progress Analysis
 
 ## Overview
 
@@ -6,7 +6,7 @@ This report summarizes the cadet training progress analysis performed using cade
 
 ---
 
-# Cadet progress analysis
+# Cadet Progress Analysis
 
 Cadet progress percentages showed a wide variation across different training programs.
 
