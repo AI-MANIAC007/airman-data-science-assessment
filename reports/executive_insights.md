@@ -162,7 +162,6 @@ The current data can be improved by collecting:
 - Instructor experience level
 - Aircraft maintenance history
 - Cadet attendance percentage
-- Flight simulator performance
 - Cadet feedback score
 
 These additional fields may improve future analysis quality.
