@@ -231,7 +231,7 @@ This project generated:
 
 Yes.
 
-AI tools were used mainly for coding assistance, debugging support, and content phrasing.
+AI tools were used as an assistance mechanism for code generation support, debugging, visualization suggestions, and report structuring. All calculations, assumptions, and outputs were manually reviewed and verified.
 
 ---
 
