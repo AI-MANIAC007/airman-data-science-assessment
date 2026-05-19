@@ -1,12 +1,12 @@
-# skynet operations analysis
+# Skynet operations analysis
 
-## overview
+## Overview
 
 This report summarizes the operational analysis performed on aircraft utilization, instructor utilization, and dispatch reliability using the cleaned Skynet training operations datasets. The analysis was done to identify operational inefficiencies, utilization patterns, instructor workload issues, and recurring delay or cancellation factors.
 
 ---
 
-# aircraft utilization analysis
+# Aircraft utilization analysis
 
 Aircraft utilization across both bases was generally low. Most aircraft were operating below 15% utilization even though sufficient available hours were present. This indicates that aircraft resources are not being fully used during training operations.
 
@@ -21,7 +21,7 @@ Aircraft A008 recorded the highest utilization at around 12.83%, while A007 show
 
 All aircraft fell under the underutilized category based on the chosen threshold of 20%.
 
-### high defect aircraft
+### High defect aircraft
 
 Two aircraft showed unusually high defect counts:
 
@@ -30,13 +30,13 @@ Two aircraft showed unusually high defect counts:
 
 Frequent defects may impact dispatch reliability and maintenance scheduling.
 
-### maintenance downtime observations
+### Maintenance downtime observations
 
 Several aircraft recorded high maintenance downtime values. Aircraft A010 had the highest downtime of 80 hours, while A009 and A005 also showed significant downtime.
 
 The high downtime values appear to contribute to the low utilization percentages observed across the fleet.
 
-### aircraft requiring operational review
+### Aircraft requiring operational review
 
 Aircraft A004 and A008 were flagged for operational review because they showed both:
 - high defect counts
@@ -46,7 +46,7 @@ These aircraft may require detailed maintenance inspection or scheduling adjustm
 
 ---
 
-# instructor utilization analysis
+# Instructor utilization analysis
 
 Instructor utilization showed large variation across the training staff.
 
@@ -59,7 +59,7 @@ This suggests that certain instructors are heavily involved in flight operations
 
 At the same time, a few instructors showed low utilization levels below 40%, indicating uneven workload distribution.
 
-### overloaded instructors
+### Overloaded instructors
 
 The following instructors exceeded the selected duty hour threshold of 180 hours:
 
@@ -68,7 +68,7 @@ The following instructors exceeded the selected duty hour threshold of 180 hours
 
 Continuous high duty hours may increase fatigue risk and scheduling pressure.
 
-### underutilized instructors
+### Underutilized instructors
 
 The following instructors were identified as underutilized:
 - I002
@@ -79,7 +79,7 @@ The following instructors were identified as underutilized:
 
 Better redistribution of sortie assignments could help improve instructor balancing.
 
-### qualification mismatch risks
+### Qualification mismatch risks
 
 A significant number of qualification mismatches were detected between instructor qualification type and assigned aircraft type.
 
@@ -98,7 +98,7 @@ This area requires immediate operational validation because qualification mismat
 
 ---
 
-# dispatch reliability analysis
+# Dispatch reliability analysis
 
 A total of 100 sorties were analyzed.
 
@@ -113,7 +113,7 @@ The completion rate was 82%, while the cancellation rate was 18%.
 
 A high number of sorties experienced delays, with an average delay of approximately 17.63 minutes.
 
-### cancellation analysis
+### Cancellation analysis
 
 The most common cancellation reason was instructor unavailability.
 
@@ -126,7 +126,7 @@ The most common cancellation reason was instructor unavailability.
 
 This suggests that instructor scheduling and aircraft maintenance are contributing factors affecting sortie completion.
 
-### delay analysis by base
+### Delay analysis by base
 
 | base | average delay |
 |------|---------------|
@@ -135,13 +135,13 @@ This suggests that instructor scheduling and aircraft maintenance are contributi
 
 B01 experienced slightly higher delays compared to B02.
 
-### delay analysis by lesson type
+### Delay analysis by lesson type
 
 Circuit and Solo lessons showed the highest average delays at around 19.7 minutes.
 
 General Handling lessons recorded the lowest delay values.
 
-### delay analysis by day
+### Delay analysis by day
 
 Friday showed the highest average delay among all weekdays at 22.13 minutes. Thursday also showed relatively high delays.
 
@@ -149,15 +149,15 @@ This may indicate increased operational load near the end of the training week.
 
 ---
 
-# conclusion
+# Conclusion
 
 The analysis identified several operational areas that may require attention:
 
-- overall aircraft utilization is low
-- some aircraft have high defect frequency
-- maintenance downtime is impacting availability
-- instructor workload distribution is uneven
-- qualification mismatch records are high
-- delays are common across training operations
+- Overall aircraft utilization is low
+- Some aircraft have high defect frequency
+- Maintenance downtime is impacting availability
+- Instructor workload distribution is uneven
+- Qualification mismatch records are high
+- Delays are common across training operations
 
 The current training operations appear functional, but improvements in scheduling, maintenance planning, and instructor allocation could help improve operational efficiency and dispatch reliability.
